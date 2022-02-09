@@ -20,7 +20,7 @@ Hi I’m Kristen, a self-taught developer from Southern California. Even though 
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Git-Goud)](https://github.com/Git-Goud/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Git-Goud&show_icons=true&theme=dark))
 
 ### Weekly Stats
 <!--START_SECTION:waka-->
