@@ -4,7 +4,7 @@ Hi I’m Kristen, a self-taught developer from Southern California. Even though 
 
 - 🤔 I’m looking for my first Junior Developer position.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kmgoudreault/) || kmgoudreault@gmail.com
-- ⚡ Fun fact: [I love rock climbing and skateboarding] I love challenging myself and chasing that send energy.
+- ⚡ Fun fact: [I love rock climbing and skateboarding] I love challenging myself and chasing that send-energy!
 
 ### Currently Working On
 - [My Portfolio Website] I am currently working on deploying my website portfolio.
@@ -15,7 +15,7 @@ Hi I’m Kristen, a self-taught developer from Southern California. Even though 
 ### Current Projects
 
 - [Weather Application] - An application that gives you the weather in a given location.
-- [Django To Do List] - A to-do list appliation using Django
+- [Django To Do List] - A to-do list application using Django
 
 
 ### Languages
