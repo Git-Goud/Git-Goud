@@ -1,6 +1,6 @@
 ## Hi there! 👋
 ### About Me 💬 
-Hi I’m Kristen, a self-taught developer from Southern California. Even though I just found my passion for coding I am obsessed with it! I started off getting my Bachelors of Science degree in Kinesiology, when I realized Technology is what I really enjoy learning about. So I got another degree in Information Technology, but what I didn't know is... I actually really love to program! Yikes, two degrees and now I find my calling! I didn't hesitate to dive right into the world of coding. Already being a huge nerd and gamer, I was familiar with the possibilities of what this new skill would take me. From there on I have been self-studying computer science and working on projects to show my skill and dedication to this wonderful world of programming.
+Hi I’m Kristen, a self-taught developer from Southern California. Even though I just found my passion for coding I am obsessed with it! I started off getting my Bachelors of Science degree in Kinesiology, when I realized Technology is what I really enjoy learning about. So I got another degree in Information Technology, but what I didn't know is... I actually really love to program! Yikes, two degrees and now I find my calling! I didn't hesitate to dive right into the world of coding. Already being a huge nerd and gamer, I was familiar with the possibilities of what this new skill would take me. From there on I have been self-studying computer science and working on projects to show my skill and dedication to this wonderful world of programming. Specifically looking into getting into the field of Machine Learning and Backend developement.
 
 - 🤔 I’m looking for my first Junior Developer position.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kmgoudreault/) || kmgoudreault@gmail.com
@@ -9,7 +9,7 @@ Hi I’m Kristen, a self-taught developer from Southern California. Even though 
 ### Currently Working On
 - [My Portfolio Website] I am currently working on deploying my website portfolio.
 - [Blog Website] I am currently working on a blog site using MERN stack.
-- [Online Programming classes] I am currently taking a few classes to better my coding skills. Specifically looking into getting into the field of Machine Learning.
+- [Online Programming classes] I am currently taking a few classes to better my coding skills. Currently learning about AWS.
 - [More Projects] I am always working on little projects to practice my skills.
 
 
