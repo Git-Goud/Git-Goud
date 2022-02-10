@@ -8,13 +8,14 @@ Hi I’m Kristen, a self-taught developer from Southern California. Even though 
 
 ### Currently Working On
 - [My Portfolio Website] I am currently working on deploying my website portfolio.
-- [Online Programming classes] I am currently taking a few classes to better my coding skills.
+- [Blog Website] I am currently working on a blog site using MERN stack.
+- [Online Programming classes] I am currently taking a few classes to better my coding skills. Specifically looking into getting into the field of Machine Learning.
 - [More Projects] I am always working on little projects to practice my skills.
 
 
 ### Current Projects
 
-- [Weather Application] - An application that gives you the weather in a given location.
+- [Climbing Weather Application] - An application that gives you the weather in a given location using the climbing weather API.
 - [Django To Do List] - A to-do list application using Django
 
 
