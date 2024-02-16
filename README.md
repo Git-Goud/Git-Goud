@@ -1,6 +1,6 @@
 ## Hi there! 👋
 ### About Me 💬 
-Welcome! I'm Kristen, a dedicated self-taught developer based in Southern California. My academic journey began with a Bachelor of Science in Kinesiology in 2016, but my true calling in technology emerged shortly after. This led me to earn a degree in Information Technology in 2020. My discovery of Python marked a turning point, igniting a deep passion for coding. With a background as an avid gamer, I seamlessly transitioned into the programming world, continuously enhancing my skills through self-study and practical projects. Currently, I'm advancing my expertise by pursuing a Master's degree in Information Technology, with a keen interest in Machine Learning and AI.
+Welcome! I'm Kristen, a dedicated self-taught developer based in Southern California. My academic journey began with a Bachelor of Science in Kinesiology in 2016, but my true calling in technology emerged shortly after. This led me to earn a degree in Information Technology in 2020. With a background as an avid gamer, I naturally transitioned into the programming world, continuously enhancing my skills through self-study and practical projects. Currently, I'm advancing my expertise by pursuing a Master's degree in Information Technology, with a keen interest in Machine Learning and AI.
 
 - 🏢 I work for a Medical School as an Application and Database Developer.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kmgoudreault/) || kmgoudreault@gmail.com
